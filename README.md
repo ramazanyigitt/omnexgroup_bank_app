@@ -2,7 +2,8 @@
 In this application the few things used:
 - OTP Login
 - Fade animation on scroller
-- MVVM State Management
+- MVVM
+- Provider as state management
 - Generic requests
 - Responsive UI
 - Pixel perfect design
